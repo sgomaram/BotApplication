@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"  CodeFile="CompleteCSM.master.cs" Inherits="CompleteCSM" %>
+
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server" >
+
+       <table class="nav-justified">
+        <tr>
+            <td>
+                   <asp:contentplaceholder id="Step1Pict" runat="server">
+                        <h3>Step 1</h3>
+                        <a href="OnboardingStep1.aspx">Subscription Info</a>
+                    </asp:contentplaceholder>
+           </td>
+        
+             <td>
+                   <asp:contentplaceholder id="Step2Pict" runat="server">
+                        <h3>Step 2</h3>
+                        <a href="OnboardingStep2.aspx">Support Sign Up</a>
+                    </asp:contentplaceholder>
+           </td> 
+             <td>
+                   <asp:contentplaceholder id="Step3Pict" runat="server">
+                        <h3>Step 3</h3>
+                        <a href="OnboardingStep3.aspx">Product Training</a>
+                    </asp:contentplaceholder>
+           </td> 
+             <td>
+                   <asp:contentplaceholder id="Step4Pict" runat="server">
+                        <h3>Step 4</h3>
+                        <a href="OnboardingStep4.aspx">Ask a Question</a>
+                    </asp:contentplaceholder>
+            </td> 
+             <td>
+                   <asp:contentplaceholder id="Step5Pict" runat="server">
+                        <h3>Step 5</h3>
+                        <a href="OnboardingStep5.aspx">Meet with an Expert</a>
+                    </asp:contentplaceholder>
+            </td>
+             <td>
+                   <asp:contentplaceholder id="Step6Pict" runat="server">
+                        <h3>Step 6</h3>
+                        <a href="OnboardingStep6.aspx">Proactive Campaigns </a> 
+                    </asp:contentplaceholder>
+            </td>
+            <td>
+                <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click">Logout</asp:LinkButton></td>
+        </tr>
+        <tr> <td colspan="6"> <br /></td></tr>
+         <tr>      <td colspan="6"> <br /></td></tr>
+         <tr>      <td colspan="6"> 
+
+                  <asp:contentplaceholder id="Step1" runat="server"/>
+                  <asp:contentplaceholder id="Step2" runat="server"/>
+                  <asp:contentplaceholder id="Step3" runat="server"/>
+
+                  <asp:contentplaceholder id="Step4" runat="server"/>
+
+                  <asp:contentplaceholder id="Step5" runat="server"/>
+
+                  <asp:contentplaceholder id="Step6" runat="server"/>
+
+
+             </td>
+            </tr>
+    </table>
+   
+
+</asp:Content>
+
+
+

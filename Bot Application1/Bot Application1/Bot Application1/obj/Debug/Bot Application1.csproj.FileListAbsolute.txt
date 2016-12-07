@@ -1,0 +1,183 @@
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Bot Application1.dll.config
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Bot Application1.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Bot Application1.pdb
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.AppContext.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Collections.Immutable.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Diagnostics.StackTrace.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.IO.FileSystem.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Collections.Immutable.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\obj\Debug\Bot Application1.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\obj\Debug\Bot Application1.pdb
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\BestMatchDialog.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\CCSM.dll
+C:\Users\marybeth\Documents\Visual Studio 2015\Projects\Bot Application1\Bot Application1\bin\CCSM.pdb
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Bot Application1.dll.config
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Bot Application1.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Bot Application1.pdb
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Autofac.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\BestMatchDialog.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\CCSM.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Chronic.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.AppContext.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Collections.Immutable.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Diagnostics.StackTrace.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.IO.FileSystem.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.IO.FileSystem.Primitives.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\CCSM.pdb
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Autofac.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Collections.Immutable.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\obj\Debug\Bot Application1.dll
+D:\CompleteCSM\Code\Bot Application1\Bot Application1\obj\Debug\Bot Application1.pdb
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Bot Application1.dll.config
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Bot Application1.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Bot Application1.pdb
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Autofac.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\BestMatchDialog.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\CCSM.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Chronic.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Newtonsoft.Json.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.AppContext.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Collections.Immutable.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Diagnostics.StackTrace.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.IO.FileSystem.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Web.Http.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\CCSM.pdb
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Autofac.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.Bot.Connector.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\Newtonsoft.Json.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Collections.Immutable.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Net.Http.Formatting.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Reflection.Metadata.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Web.Http.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\System.Web.Http.WebHost.xml
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\obj\Debug\Bot Application1.csprojResolveAssemblyReference.cache
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\obj\Debug\Bot Application1.dll
+C:\Users\sgomaram\Documents\VB\Bot Application1\Bot Application1\Bot Application1\obj\Debug\Bot Application1.pdb
