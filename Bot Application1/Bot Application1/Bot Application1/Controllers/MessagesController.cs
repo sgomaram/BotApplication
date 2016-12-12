@@ -13,6 +13,7 @@ using Microsoft.Bot.Builder.Luis;
 using Microsoft.Bot.Builder.Luis.Models;
 using BestMatchDialog;
 using System.Threading;
+using static Microsoft.Bot.Builder.Dialogs.PromptDialog;
 
 namespace Bot_Application1
 {
@@ -39,8 +40,8 @@ namespace Bot_Application1
             if (activity.Type == ActivityTypes.Message)
             {
                 
-                await Conversation.SendAsync(activity, () => new EchoDialog());               
-                //await Conversation.SendAsync(activity, () => new LUISModel());
+               // await Conversation.SendAsync(activity, () => new Dialog1());               
+                await Conversation.SendAsync(activity, () => new ShashiLuis());
 
 
                 //decide with CASe - is this a form selection of 1 - 5 
@@ -96,7 +97,33 @@ namespace Bot_Application1
             return null;
         }
 
-       
+
+        [Serializable]
+        public class Dialog1 : IDialog<object>
+        {
+            public async Task StartAsync(IDialogContext context)
+            {
+                context.Wait(DisplayTrainingLevels);
+            }
+            
+            private async Task DisplayTrainingLevels(IDialogContext context, IAwaitable<object> result)
+            {
+                IEnumerable<string> m_oEnum = new string[] { "sBeginner", "sIntermediate", "sExpert" };
+
+                PromptDialog.Choice<string>(context, DisplayTrainings, m_oEnum, "string for prompt", "string for retry", 3, PromptStyle.Auto);
+                
+                //context.Wait(DisplayTrainings);
+            }
+
+            private async Task DisplayTrainings(IDialogContext context, IAwaitable<string> result)
+            {
+                await context.PostAsync("These are the available trainings: .. .. ..");
+                context.Wait(DisplayTrainingLevels);
+            }
+
+        }
+
+
 
         [Serializable]
         public class EchoDialog : IDialog<object>

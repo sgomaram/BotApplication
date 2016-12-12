@@ -178,10 +178,13 @@
     <Compile Include="LUISModel.cs" />
     <Compile Include="Models\AddToSubsc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShashiLuis.cs" />
     <Compile Include="SimpleAlarmDialog.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="conf\Courses.csv" />
+    <Content Include="conf\Login.csv" />
     <None Include="Properties\PublishProfiles\completecsm %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\completecsm.pubxml" />
     <None Include="Web.Debug.config">
@@ -201,6 +204,7 @@
       <Name>CCSM</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
